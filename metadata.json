@@ -1,0 +1,6 @@
+{
+  "name": "DUONN Support Center",
+  "description": "Portal cósmico metálico com a logomarca DUONN e suporte técnico no centro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
